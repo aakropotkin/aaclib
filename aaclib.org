@@ -19,6 +19,6 @@ main( int argc, char * argv[], char ** envp )
 #+RESULTS:
 : -128
 : 127
-: 255d
+: 255
 
 sqrt( LONG_MAX ) = 3037000499
